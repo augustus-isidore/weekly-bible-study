@@ -1,34 +1,1074 @@
 {
   "studies": [
     {
-      "date": "2026-11-22",
-      "passage": "James 3:13–18",
-      "title": "Wisdom from above",
+      "date": "2026-09-13",
+      "title": "The Problem with Judgy People",
+      "passages": [
+        {
+          "reference": "Luke 7:36–50",
+          "url": "https://bible.com/bible/111/luk.7.36-50"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-09-13",
+      "introduction": [
+        {
+          "heading": "Summary",
+          "text": "We are often quick to see and judge the sins of others while forgetting how desperately we need God’s grace ourselves. In Luke 7, Jesus shows us that both the broken woman and the self-righteous Pharisee needed Him, and the difference was that one recognized her need for forgiveness while the other could only see someone else’s sin. When we understand how much Jesus has forgiven us, judgment gives way to humility, pride gives way to gratitude, and comparison gives way to love."
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "text": "What are the situations that most quickly bring out your judgmental side?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Is it social media, parenting, marriage, church, politics, someone’s lifestyle, another Christian’s theology, etc.?"
+            },
+            {
+              "label": "b",
+              "text": "What tends to trigger you?"
+            }
+          ],
+          "readingPrompts": [
+            {
+              "text": "Read Matthew 7:1–5.",
+              "scriptureLinks": [
+                {
+                  "text": "Matthew 7:1–5",
+                  "url": "https://bible.com/bible/111/mat.7.1-5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "text": "Jesus tells us to deal with the log in our own eye before addressing the speck in someone else’s.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How do we distinguish between healthy biblical discernment and sinful judgment?"
+            },
+            {
+              "label": "b",
+              "text": "When have you seen that line become difficult to recognize?"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "The woman came to Jesus with a public reputation, while Simon came to Jesus with a reputation of righteousness. Yet Jesus shows that both needed forgiveness.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Why do you think it can become harder for people who have been Christians for a long time to recognize their ongoing need for grace?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "Think about a person or situation where you have been tempted to think, “what they did was worse than what I did.”",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Without excusing their sin or minimizing what happened to you, what does standing before the holiness of Jesus do to that comparison?"
+            },
+            {
+              "label": "b",
+              "text": "How might humility change the way you respond?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "Jesus says, “He who is forgiven little, loves little” (Luke 7:47).",
+          "scriptureLinks": [
+            {
+              "text": "Luke 7:47",
+              "url": "https://bible.com/bible/111/luk.7.47"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What connection do you see between our awareness of our own sin, our experience of God’s grace, and our ability to love difficult people?"
+            },
+            {
+              "label": "b",
+              "text": "What might it look like for you personally to live more deeply as someone who has been forgiven much?"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "How can we confront sin or have difficult conversations without becoming self-righteous?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What practical differences would you expect to see in our tone, words, assumptions, and posture?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "From Bitterness to Forgiveness",
+      "passages": [
+        {
+          "reference": "Colossians 3:5–16",
+          "url": "https://bible.com/bible/111/col.3.5-16"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-09-20",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/September-20-2026-From-Bitterness-to-Forgiveness.docx",
+      "introduction": [
+        {
+          "heading": "Message Description",
+          "text": "While the Bible repeatedly tells us to be willing to forgive others their offences, at times we deeply struggle to forgive others. The reason for this is there is something residing in the human heart that makes it almost impossible to forgive others. But what can transform our ability to forgive others is when we allow the peace of Christ to rule our hearts."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "God’s forgiveness for all our sins is central to our faith as Christians, yet ironically Christians have a difficult time extending forgiveness to others.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What are some of the challenges you have faced in extending forgiveness to others?"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "text": "In Colossians 3:5–9 we are given a series of negative characteristics to kill off. What causes these negative characteristics to surface in our lives.",
+          "scriptureLinks": [
+            {
+              "text": "Colossians 3:5–9",
+              "url": "https://bible.com/bible/111/col.3.5-9"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What are some of the triggers that cause some of these characteristics to surface in your life?"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "In contrast to these negative characteristics, there is a series of positive characteristics we are called to put on mentioned in Colossians 3:12–14.",
+          "scriptureLinks": [
+            {
+              "text": "Colossians 3:12–14",
+              "url": "https://bible.com/bible/111/col.3.12-14"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Are there any clues in this text that help us to understand how we can put these characteristics on? (See also Colossians 3:9–10)",
+              "scriptureLinks": [
+                {
+                  "text": "Colossians 3:9–10",
+                  "url": "https://bible.com/bible/111/col.3.9-10"
+                }
+              ]
+            },
+            {
+              "label": "b",
+              "text": "What things have you done to help you to put on these characteristics?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "The work in putting off negative characteristics and putting on positive Christ-like characteristics can be overwhelming and feel next to impossible. The reason is our greatest need in experiencing inner change and transformation is to have the peace of Christ rule in our hearts (see Colossians 3:15).",
+          "scriptureLinks": [
+            {
+              "text": "Colossians 3:15",
+              "url": "https://bible.com/bible/111/col.3.15"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What do you think it means to have the peace of Christ rule our heart?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "For the peace of Christ to become an active power in our life, we must understand and apply the truth of our identity in Christ.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How is our identity in Christ described in Colossians 3:1–4, and how do we get the truth of our identity in Christ deep into our heart?",
+              "scriptureLinks": [
+                {
+                  "text": "Colossians 3:1–4",
+                  "url": "https://bible.com/bible/111/col.3.1-4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "For the peace of Christ to become an active power in our life, we must also deal with the over-desires that have become an idol in our heart (see Colossians 3:5).",
+          "scriptureLinks": [
+            {
+              "text": "Colossians 3:5",
+              "url": "https://bible.com/bible/111/col.3.5"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How can we learn to identify these idols, and how can we learn to put them to death by replacing them with the truth of the beauty of who and what we have become through Jesus Christ?"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "text": "What impact do you think the ruling peace of Christ in our heart will have on our willingness and ability to forgive others?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Ambassadors of Reconciliation",
+      "passages": [
+        {
+          "reference": "2 Corinthians 5:14–21",
+          "url": "https://bible.com/bible/111/2co.5.14-21"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-09-27",
+      "introduction": [
+        {
+          "heading": "Message Description",
+          "text": "Through faith in Jesus, we have become a new creation which means we have been set free from the power of sin so we can live a Christ-like life empowered by the indwelling presence of the Holy Spirit. As a result, Christians have a new motivation which leads us come under the control and influence of the love of Christ. A new mindset is created that enables us to see Jesus and others in a new way, and a new mission for life is created that leads us to call people to be reconciled to God through faith in Jesus."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "We are told in 2 Corinthians 5:17 that a person who is in Christ becomes a new creation, the old has gone and the new has come.",
+          "scriptureLinks": [
+            {
+              "text": "2 Corinthians 5:17",
+              "url": "https://bible.com/bible/111/2co.5.17"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Why does Christian salvation require us to be born again and made new? (see Ephesians 2:1–3; Romans 3:9–18)",
+              "scriptureLinks": [
+                {
+                  "text": "Ephesians 2:1–3",
+                  "url": "https://bible.com/bible/111/eph.2.1-3"
+                },
+                {
+                  "text": "Romans 3:9–18",
+                  "url": "https://bible.com/bible/111/rom.3.9-18"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "text": "What is the old that has gone, and what is the new that has come? (See Romans 6:5–15)",
+          "scriptureLinks": [
+            {
+              "text": "Romans 6:5–15",
+              "url": "https://bible.com/bible/111/rom.6.5-15"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "How does reconciliation to God give us insight into our new life in Christ?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How does the emphasis on reconciliation reveal the main goal and purpose of salvation?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "How does the Apostle Paul express his inner motivation and drive to live for Jesus in 2 Corinthians 5:14?",
+          "scriptureLinks": [
+            {
+              "text": "2 Corinthians 5:14",
+              "url": "https://bible.com/bible/111/2co.5.14"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What is the difference between a person who lives the Christian life out of a sense of duty and obligation to Jesus, and a person who lives the Christian life out of a deep love for Jesus?"
+            },
+            {
+              "label": "b",
+              "text": "How can we learn to be more motivated by love for Jesus instead of duty to Jesus?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "How does our new life in Christ lead us to have a different view of others? (see 2 Corinthians 5:16)",
+          "scriptureLinks": [
+            {
+              "text": "2 Corinthians 5:16",
+              "url": "https://bible.com/bible/111/2co.5.16"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How would you describe the typical worldly way of viewing others, and how does the Gospel of Jesus lead us to view others differently?"
+            },
+            {
+              "label": "b",
+              "text": "What does the Gospel reveal to be a person’s greatest need and issue?"
+            },
+            {
+              "label": "c",
+              "text": "How might this understanding lead us to relate to others differently?"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "What does it mean to be an ambassador of reconciliation (see 2 Corinthians 5:18–20)?",
+          "scriptureLinks": [
+            {
+              "text": "2 Corinthians 5:18–20",
+              "url": "https://bible.com/bible/111/2co.5.18-20"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What does an ambassador for another country do, and how might this give us insight into how we are to be ambassadors of reconciliation to others?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Philippians 4:2–9",
+      "passages": [
+        {
+          "reference": "Philippians 4:1–9",
+          "url": "https://bible.com/bible/111/php.4.1-9"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-10-11",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/October-11-2026-Questions.docx",
+      "introduction": [
+        {
+          "heading": "Group Reading",
+          "text": "Have someone read Philippians 4:1–9.",
+          "scriptureLinks": [
+            {
+              "text": "Philippians 4:1–9",
+              "url": "https://bible.com/bible/111/php.4.1-9"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "What stood out to you from the message (East or West) this week?"
+        },
+        {
+          "number": 2,
+          "text": "In verses 2–3, what does Paul ask Euodia and Syntyche to do, and what does his wording, “agree in the Lord,” actually mean?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What do you think Paul is calling them to prioritize above their disagreement?"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "Paul moves from conflict in verses 2–3 to joy, gentleness, prayer, and peace in verses 4–7.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How do these commands connect with one another?"
+            },
+            {
+              "label": "b",
+              "text": "What does this passage suggest is the right way for Christians to respond when relationships become difficult?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "Paul says, “The Lord is near” in verse 5, immediately before telling believers not to be anxious.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How might knowing that God is near change the way we experience anxiety?"
+            },
+            {
+              "label": "b",
+              "text": "Is there an area of your life right now where you need to remind yourself that God is near?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "In verses 6–7, Paul tells us to bring our anxiety to God through prayer and thanksgiving.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What stands out to you about the way Paul describes prayer here?"
+            },
+            {
+              "label": "b",
+              "text": "Paul tells us to bring our requests to God “with thanksgiving,” Why do you think thanksgiving is connected to prayer in this passage?"
+            },
+            {
+              "label": "c",
+              "text": "What happens in your perspective when you deliberately thank God while you are asking Him for something?"
+            },
+            {
+              "label": "d",
+              "text": "When you are anxious or overwhelmed, what do you tend to do first, and how could this passage reshape that response?"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "Verse 8 tells us to intentionally think about things that are true, honourable, just, pure, lovely, and commendable.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Why do you think what we continually think about matters so much to Paul?"
+            },
+            {
+              "label": "b",
+              "text": "What kinds of thoughts do you find yourself dwelling on when you have too much time to think?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "title": "1 John 3:11–24",
+      "passages": [
+        {
+          "reference": "1 John 3:11–24",
+          "url": "https://bible.com/bible/111/1jn.3.11-24"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-10-25",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/October-25-2026-Questions.docx",
+      "introduction": [
+        {
+          "heading": "Message Description",
+          "text": "We are warned not to be like Cain, who became filled with murderous jealousy over his brother Abel giving Satan an opportunity to control him. To prevent this from happening to ourselves, we must look deeply within our heart to ensure our heart is being controlled by the love of God, and to ensure our heart is free from inner condemnation."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "The Apostle John instructs us not to be like Cain in our relationships with other Christian brothers and sisters. Read Genesis 4:1–7.",
+          "scriptureLinks": [
+            {
+              "text": "Genesis 4:1–7",
+              "url": "https://bible.com/bible/111/gen.4.1-7"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What insights do we gain into the reason why Cain was filled with anger and sadness when God blessed Abel’s sacrifice but not Cain’s sacrifice?"
+            },
+            {
+              "label": "b",
+              "text": "Why did Cain take out his anger on Abel? How can comparing our life to others set us up with feelings of anger and resentment?"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "text": "How does anger and bitterness create an opportunity for sin and Satan to control us?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What negative actions and attitudes result when we come under the control of sin and Satan? (See Galatians 5:19–21.)",
+              "scriptureLinks": [
+                {
+                  "text": "Galatians 5:19–21",
+                  "url": "https://bible.com/bible/111/gal.5.19-21"
+                }
+              ]
+            },
+            {
+              "label": "b",
+              "text": "Do you believe it’s possible for a Christian to come under demonic influence and control? (See 1 Peter 5:8.)",
+              "scriptureLinks": [
+                {
+                  "text": "1 Peter 5:8",
+                  "url": "https://bible.com/bible/111/1pe.5.8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "The Apostle John reveals that the way we are to protect ourselves is to ensure that the love of God controls our heart. John teaches that Christians should love one another instead of saying they must love one another.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Based on 1 John 3:1–3, why should born again Christians love one another?",
+              "scriptureLinks": [
+                {
+                  "text": "1 John 3:1–3",
+                  "url": "https://bible.com/bible/111/1jn.3.1-3"
+                }
+              ]
+            },
+            {
+              "label": "b",
+              "text": "What might an unwillingness and inability to love other Christians reveal about our spiritual status before God?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "Based on 1 John 3:16–18, how is Christian love described and how is it different from the way the world loves others?",
+          "scriptureLinks": [
+            {
+              "text": "1 John 3:16–18",
+              "url": "https://bible.com/bible/111/1jn.3.16-18"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What is the difference between love produced within us by the Holy Spirit and love produced through self-effort?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "In 1 John 3:19–20, we are encouraged to deal with the condemning heart.",
+          "scriptureLinks": [
+            {
+              "text": "1 John 3:19–20",
+              "url": "https://bible.com/bible/111/1jn.3.19-20"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "In what ways can the inner condemning voice gain power and influence in our life when we are hurt by others?"
+            },
+            {
+              "label": "b",
+              "text": "How can we learn to overcome the inner voice of judgment and condemnation?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Matthew 5:20–26; 38–48",
+      "passages": [
+        {
+          "reference": "Matthew 5:20–48",
+          "url": "https://bible.com/bible/111/mat.5.20-48"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-11-01",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/November-1-2026-Questions.docx",
+      "introduction": [
+        {
+          "heading": "Group Reading",
+          "text": "Read Matthew 5:20–26 and Matthew 5:38–48.",
+          "scriptureLinks": [
+            {
+              "text": "Matthew 5:20–26",
+              "url": "https://bible.com/bible/111/mat.5.20-26"
+            },
+            {
+              "text": "Matthew 5:38–48",
+              "url": "https://bible.com/bible/111/mat.5.38-48"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "What stood out to you from the sermon this week, either East or West?"
+        },
+        {
+          "number": 2,
+          "text": "Matthew 5:20 says our righteousness must “exceed” that of the Pharisees. The Pharisees were careful to obey the rules, so what could be missing from their righteousness?",
+          "scriptureLinks": [
+            {
+              "text": "Matthew 5:20",
+              "url": "https://bible.com/bible/111/mat.5.20"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What do verses 21–22 show us that Jesus is looking for?",
+              "scriptureLinks": [
+                {
+                  "text": "verses 21–22",
+                  "url": "https://bible.com/bible/111/mat.5.21-22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "Why do you think Jesus cares so much about what is going on in our hearts, and not just whether we obey the outward command?"
+        },
+        {
+          "number": 4,
+          "text": "Look at the examples of love given in Matthew 5:39–42.",
+          "scriptureLinks": [
+            {
+              "text": "Matthew 5:39–42",
+              "url": "https://bible.com/bible/111/mat.5.39-42"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What are modern-day examples of how we could be required to “go the extra mile” out of love?"
+            },
+            {
+              "label": "b",
+              "text": "How does Jesus’ teaching here challenge our desire to protect our reputation, keep our stuff, and make sure we are treated fairly?"
+            },
+            {
+              "label": "c",
+              "text": "What could it look like to show unexpected kindness instead of getting even?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "Matthew 5:43 reads “hate your enemy.” That exact phrase is not in the Old Testament, but some people had twisted its teaching to mean this.",
+          "scriptureLinks": [
+            {
+              "text": "Matthew 5:43",
+              "url": "https://bible.com/bible/111/mat.5.43"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How can we make the same mistake today, deciding who counts as our “enemy” so we feel okay about not loving them?"
+            },
+            {
+              "label": "b",
+              "text": "What would it look like to be generous with love towards them?"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "In Matthew 5:43–44, Jesus tells us to love our enemies and pray for those who hurt us.",
+          "scriptureLinks": [
+            {
+              "text": "Matthew 5:43–44",
+              "url": "https://bible.com/bible/111/mat.5.43-44"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What happens in your own heart when you pray for someone you find hard to love?"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "text": "In Matthew 5:48, Jesus says “be perfect,” which means complete or mature. Look back at verses 43–47.",
+          "scriptureLinks": [
+            {
+              "text": "Matthew 5:48",
+              "url": "https://bible.com/bible/111/mat.5.48"
+            },
+            {
+              "text": "verses 43–47",
+              "url": "https://bible.com/bible/111/mat.5.43-47"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What is missing when we only love people who love us back?"
+            },
+            {
+              "label": "b",
+              "text": "What would complete love look like? How does Jesus show us “complete” love?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Romans 12:9–21",
+      "passages": [
+        {
+          "reference": "Romans 12:9–21",
+          "url": "https://bible.com/bible/111/rom.12.9-21"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-11-08",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/November-8-2026-Questions.docx",
+      "introduction": [
+        {
+          "heading": "Message Overview",
+          "text": "Living in a broken world should make us expect that the brokenness of others will ultimately have an impact on our lives. God’s calling on our lives is to respond to evil with good. This does not mean being passive in the face of evil, but rather to go to war against evil with goodness. Responding to evil with good is how we prevent evil from gaining control of our own lives and could potentially free others from the control of evil."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "While Christianity is similar to other religions regarding morality and ethics, Christianity is unique in its response to evil. Jesus calls us to love our enemies and to do good to those who hate us (Luke 6:27).",
+          "scriptureLinks": [
+            {
+              "text": "Luke 6:27",
+              "url": "https://bible.com/bible/111/luk.6.27"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Why do you think God wants us to respond to evil and injustice this way?"
+            },
+            {
+              "label": "b",
+              "text": "Do you believe this calling is realistic and possible?"
+            },
+            {
+              "label": "c",
+              "text": "What personal challenges and obstacles make it difficult for you to love your enemies?"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "text": "Many Christians believe that overcoming evil with good means being passive towards evil or letting others continue to abuse us. The word “overcome” is a military word meaning to prevail or conquer something. This means we’re not to be passive in the face of evil, but to actively overcome it with good.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How would you describe actively overcoming evil with good?"
+            },
+            {
+              "label": "b",
+              "text": "What does it look like?"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "To overcome evil with good means not responding in kind to evil. This means if we do respond to evil with evil, evil not only continues to prevail, but it can also gain a foothold in our own lives.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "In what ways can evil gain control in our lives when we respond to evil with evil?"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "How might responding to an evildoer with goodness positively impact their lives?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What are some specific ways we can bless an evildoer with words and deeds?"
+            },
+            {
+              "label": "b",
+              "text": "What do you think it means that responding with goodness will heap burning coals on his head (Proverbs 25:22)?",
+              "scriptureLinks": [
+                {
+                  "text": "Proverbs 25:22",
+                  "url": "https://bible.com/bible/111/pro.25.22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "Why is humility so important to responding to evil with goodness?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "What will happen if pride rules our heart?"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "How does having a deep understanding of God’s mercy to us in Christ (Romans 12:1) give us the ability to respond to evil with good?",
+          "scriptureLinks": [
+            {
+              "text": "Romans 12:1",
+              "url": "https://bible.com/bible/111/rom.12.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Acts 15:36–41",
+      "passages": [
+        {
+          "reference": "Acts 15:36–41",
+          "url": "https://bible.com/bible/111/act.15.36-41"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-11-15",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/November-15-2026-Questions.docx",
+      "introduction": [
+        {
+          "heading": "Message Overview",
+          "text": "There is great sadness and heartbreak when a relationship breaks down. Acts 15 gives us a case study of a relationship breaking and the great growth and learning that can result when we are willing to humble ourselves before the Lord and be open to His teaching."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "Should we be surprised that two godly leaders filled with the Holy Spirit could have such a sharp disagreement that resulted in them going their separate ways?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How can we explain how this could happen?"
+            },
+            {
+              "label": "b",
+              "text": "Do you think a relationship can be bulletproof?"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "text": "While broken relationships can be a source of great heartbreak and sadness, they can also be a source of personal growth and learning. Scripture reveals that humility is a critical gateway quality for learning and growth to happen (see Psalm 25:9; James 4:6).",
+          "scriptureLinks": [
+            {
+              "text": "Psalm 25:9",
+              "url": "https://bible.com/bible/111/psa.25.9"
+            },
+            {
+              "text": "James 4:6",
+              "url": "https://bible.com/bible/111/jas.4.6"
+            }
+          ],
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Why is humility so important to personal growth and change, and how does pride sabotage growth and learning?"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "text": "In what ways can being overly dogmatic and prideful in our beliefs and views undermine our relationships?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How might this have contributed to the reason Paul and Barnabas were irreconcilable?"
+            },
+            {
+              "label": "b",
+              "text": "How does the Bible encourage us in how we should hold our beliefs and views, and treat others who think differently? (See 1 Peter 3:15–16; Ephesians 4:15; 2 Timothy 2:24–25; Romans 14:1.)",
+              "scriptureLinks": [
+                {
+                  "text": "1 Peter 3:15–16",
+                  "url": "https://bible.com/bible/111/1pe.3.15-16"
+                },
+                {
+                  "text": "Ephesians 4:15",
+                  "url": "https://bible.com/bible/111/eph.4.15"
+                },
+                {
+                  "text": "2 Timothy 2:24–25",
+                  "url": "https://bible.com/bible/111/2ti.2.24-25"
+                },
+                {
+                  "text": "Romans 14:1",
+                  "url": "https://bible.com/bible/111/rom.14.1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "text": "Luke is the writer who records this story. He was a travelling companion with the Apostle Paul.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Why is it significant that Luke records this conflict without providing additional commentary as to who was right and who was wrong?"
+            },
+            {
+              "label": "b",
+              "text": "In what ways are we unhelpful when we take up a person’s bitterness and offence by rendering judgments?"
+            },
+            {
+              "label": "c",
+              "text": "What is a more constructive approach to helping others in their conflicts?"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "text": "We can see that Paul and Barnabas’ relationship was never the same after this conflict.",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "Is this a reality we should accept after a relationship breaks down?"
+            },
+            {
+              "label": "b",
+              "text": "Do you think relationship reconciliation means re-establishing the relationship to its previous state?"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "text": "What good resulted from this relationship breaking down?",
+          "subquestions": [
+            {
+              "label": "a",
+              "text": "How does it help us knowing that God’s work in our lives and the lives of others cannot be undermined by our relational failings and setbacks (see Romans 8:28)?",
+              "scriptureLinks": [
+                {
+                  "text": "Romans 8:28",
+                  "url": "https://bible.com/bible/111/rom.8.28"
+                }
+              ]
+            },
+            {
+              "label": "b",
+              "text": "How can this encourage us in some of the relational setbacks we have experienced?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "title": "James 3:13–18",
+      "passages": [
+        {
+          "reference": "James 3:13–18",
+          "url": "https://bible.com/bible/111/jas.3.13-18"
+        }
+      ],
+      "url": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/?study=2026-11-22",
+      "wordDownloadUrl": "https://mark-weekly-bible-study.markrobinsonjr.chatgpt.site/downloads/November-22-2026-Questions.docx",
+      "introduction": [
+        {
+          "heading": "Group Reading",
+          "text": "“Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom. But if you harbour bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth. Such “wisdom” does not come down from heaven but is earthly, unspiritual, demonic. For where you have envy and selfish ambition, there you find disorder and every evil practice. But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere. Peacemakers who sow in peace reap a harvest of righteousness.” James 3:13–18",
+          "scriptureLinks": [
+            {
+              "text": "James 3:13–18",
+              "url": "https://bible.com/bible/111/jas.3.13-18"
+            }
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
           "text": "What stood out to you from the message (East or West)?"
         },
         {
+          "number": 2,
           "text": "In your own words, give a definition of wisdom.",
           "subquestions": [
-            "Using the text, what are the different sources of wisdom?",
-            "Outside of wisdom from God, by what other things are we influenced, believing it to be wisdom?"
+            {
+              "label": "a",
+              "text": "Using the text, what are the different sources of wisdom?"
+            },
+            {
+              "label": "b",
+              "text": "Outside of wisdom from God, by what other things are we influenced, believing it to be wisdom?"
+            }
           ]
         },
         {
+          "number": 3,
           "text": "How does the passage show us the contrast between wisdom that comes from God and wisdom that comes from another source?"
         },
         {
+          "number": 4,
           "text": "Verse 13 says “...by his good conduct let him show his works in the meekness of wisdom”.",
+          "scriptureLinks": [
+            {
+              "text": "Verse 13",
+              "url": "https://bible.com/bible/111/jas.3.13"
+            }
+          ],
           "subquestions": [
-            "What does “meekness of wisdom” mean? Why is it critical in our attitude toward restoring relationships?"
+            {
+              "label": "a",
+              "text": "What does “meekness of wisdom” mean? Why is it critical in our attitude toward restoring relationships?"
+            }
           ]
         },
         {
+          "number": 5,
           "text": "According to James 1:5 how do we gain wisdom?",
+          "scriptureLinks": [
+            {
+              "text": "James 1:5",
+              "url": "https://bible.com/bible/111/jas.1.5"
+            }
+          ],
           "subquestions": [
-            "How does the life of Jesus exemplify God’s wisdom? (James 3:17).",
-            "In what ways can we follow Jesus' example of wisdom in relation to our own relationships considering verse 18?"
+            {
+              "label": "a",
+              "text": "How does the life of Jesus exemplify God’s wisdom? (James 3:17).",
+              "scriptureLinks": [
+                {
+                  "text": "James 3:17",
+                  "url": "https://bible.com/bible/111/jas.3.17"
+                }
+              ]
+            },
+            {
+              "label": "b",
+              "text": "In what ways can we follow Jesus’ example of wisdom in relation to our own relationships considering verse 18?",
+              "scriptureLinks": [
+                {
+                  "text": "verse 18",
+                  "url": "https://bible.com/bible/111/jas.3.18"
+                }
+              ]
+            }
           ]
         }
       ]
